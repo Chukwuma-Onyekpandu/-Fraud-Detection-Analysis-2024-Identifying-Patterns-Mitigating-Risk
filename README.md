@@ -3,7 +3,7 @@
 **Author:** Onyekpandu Chukwuma  
 **Prepared For:** Fintech Company Management, Fraud Detection Team, Security Operations  
 **Year:** 2024  
-
+![Dashboard](https://github.com/Chukwuma-Onyekpandu/-Fraud-Detection-Analysis-2024-Identifying-Patterns-Mitigating-Risk/blob/main/Vephla%20Excel%20Dashboard%205%20Corrected.png)
 ---
 
 ## 📌 Overview
